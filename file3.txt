@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added content in master
+=======
+added content in java branch
+>>>>>>> 7a98d61 (modified file3 in java)
